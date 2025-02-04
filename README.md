@@ -18,8 +18,8 @@ corresponds to the note (La / A4).
 3____gnrtv.cells is a toolkit to easily design sonic generative algoryhtms with pd, which will require all folders of the toolkit arranged in the same level. 
 Those directories/folders are:
 
-CODE open gnrtv.cells.nano.pd which is the main template. 
-Save it in the same folder or create nother one for ex.’projects’ in the same level of the rest of folders, otherwise several function will not work.
+CODE open gnrtv.cells.nano__CORE.template.pd which is the main template. 
+Save it in the same folder or create nother one for ex.’projects’ in the same level of the rest of folders, otherwise several functions will not work.
 
 EXAMPLES a bunch of tiny examples of generative sonic design.
 
